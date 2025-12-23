@@ -1,2 +1,3 @@
 # cloud-support-portfolio
-The journey to hopefully first tech job
+
+This will cover the journey to my first tech job! Hopefully...
