@@ -1,0 +1,4 @@
+# AWS EC2 + nginx Hands-on LaB
+
+## Objestive 
+Deploy an EC2 instance, install and run an Nginx web server, and practice troubleshooting access of ssh 
