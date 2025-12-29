@@ -1,4 +1,4 @@
-#nginx lab for ssh troubleshooting
+# nginx lab for ssh troubleshooting
 # AWS EC2 + Nginx Hands-On Lab
 
 ## Objective
