@@ -1,4 +1,4 @@
-#Learning bash script and proof of executing some commands
+# Learning bash script and proof of executing some commands
 
 Learning shebang #! and how to tell a script to use bash languange with #!/bin/bash
 Executing to monitor disk space and uptime into a script
