@@ -2,18 +2,21 @@ nano monitor.sh
 
 #!/bin/bash
 
+#create variables 
 date=$(date)
 disk=$(df -h)
 up=$(uptime)
 
+#code the monitor script
 echo "--Monitor $date---"
 echo "$disk"
 echo "$up"
 
+#change permissions of shell to be executable
 chmod +x monitor.sh
 
-to run ./monitor.sh
+#to execute 
+./monitor.sh
 
-to log into a file 
-
+#to log into a file 
 ./monitor.sh >> monitor.log
