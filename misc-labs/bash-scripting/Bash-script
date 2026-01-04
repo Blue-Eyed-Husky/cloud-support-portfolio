@@ -1,0 +1,19 @@
+nano monitor.sh
+
+#!/bin/bash
+
+date=$(date)
+disk=$(df -h)
+up=$(uptime)
+
+echo "--Monitor $date---"
+echo "$disk"
+echo "$up"
+
+chmod +x monitor.sh
+
+to run ./monitor.sh
+
+to log into a file 
+
+./monitor.sh >> monitor.log
